@@ -4,10 +4,24 @@ This post is meant to summarize some of the best moments of CREA West gruop meet
 
 
 ![job meeting](/assets/images/banners/junta.jpeg)
----
-layout: post
-title: Effective journaling on your blog
-subtitle: How to document your learning in markdown
-categories: Markdown
-tags: [Markdown, journaling, blog]
----
+
+Meeting with high staff to prepare the presentation
+
+### Presentation  
+
+At the meeting, the productive result of the 22-23 campaign was shown, which was very bad, due to the extreme drought that was experienced during the campaign.
+
+
+![Presentation](/assets/images/banners/Presentacion.jpeg)
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Presentation" src="/assets/images/banners/Presentacion.jpeg">  |  <img width="1604" alt="Data" src="/assets/images/banners/Data.jpeg">|
+|<img width="1604" alt="Cattle" src="/assets/images/banners/Cattle.jpeg">  |  <img width="1604" alt="Cattering" src="/assets/images/banners/Cattering.jpeg"">|
+
+
+### Field trip
+
+Finally, a brief tour of the field was made to show some lots of land that had been purchased and also to show the state of the pastures just at the beginning of winter.
+
+![Campo](/assets/images/banners/Campo.jpeg)
