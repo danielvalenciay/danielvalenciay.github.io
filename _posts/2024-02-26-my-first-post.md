@@ -13,10 +13,10 @@ At the meeting, the productive result of the 22-23 campaign was shown, which was
 
 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="604" height="604" alt="Presentation" src="/assets/images/banners/Presentacion.jpeg">  |  <img width="604" height="604" alt="Data" src="/assets/images/banners/Data.jpg">|
-|<img width="604" height="604" alt="Cattle" src="/assets/images/banners/Cattle.jpeg">  |  <img width="604" height="604" alt="Cattering" src="/assets/images/banners/Cattering.jpeg">|
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img  alt="Presentation" src="/assets/images/banners/Presentacion.jpeg">  |  <img  alt="Data" src="/assets/images/banners/Data.jpg">|
+|<img  alt="Cattle" src="/assets/images/banners/Cattle.jpeg">  |  <img alt="Cattering" src="/assets/images/banners/Cattering.jpeg">|
 
 
 ### Field trip
